@@ -2,8 +2,6 @@
 
 <p align="center">
 	<a href="LICENSE"><img src="https://img.shields.io/github/license/samyarsadat/MC-Client-Prep?color=blue"></a>
-	|
-	<a href="../../issues"><img src="https://img.shields.io/github/issues/samyarsadat/MC-Client-Prep"></a>
 	<br><br>
 </p>
 
