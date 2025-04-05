@@ -18,8 +18,6 @@ This is my first time using Go, and this project is really just an excuse for me
 ## Contact
 You can contact me via e-mail.<br>
 E-mail: samyarsadat@gigawhat.net<br>
-<br>
-If you think that you have found a bug or issue please report it <a href="../../issues">here</a>.
 
 <br>
 
