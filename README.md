@@ -7,7 +7,6 @@
 	<br><br>
 </p>
 
-<br><br>
 
 ----
 This is a little program for setting up a Minecraft client (download and install mods, mod-loaders, resource packs, etc.) to play on a multiplayer server based on a server description file (see [specification](docs/server_manifest_file/srv_manifest_spec.md)).
